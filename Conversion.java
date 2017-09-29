@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Conversion{
 
+//le main contient une seule procédure regroupant tout le reste
+
 public static void main (String[] args){
 
    regroupeFonctions();
